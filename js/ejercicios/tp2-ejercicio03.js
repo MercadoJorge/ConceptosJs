@@ -8,3 +8,4 @@ do {
   }
 } while (confirm("¿Desea continuar?"));
 console.log(fraseCompleta);
+document.write(`Frase Ingresada ${fraseCompleta}`)
